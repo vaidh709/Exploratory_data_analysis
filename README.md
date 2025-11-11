@@ -29,7 +29,6 @@ Make sure the Diwali Sales dataset (Diwali Sales Data.csv) is in the same folder
 ✅ Visualizations for sales trends
 ✅ Insights for targeted marketing
 
-✨ Enjoy exploring the data!
 
 
 <img width="1407" height="566" alt="image" src="https://github.com/user-attachments/assets/00706e8e-0d1e-4422-a900-cc1b3c684271" />
